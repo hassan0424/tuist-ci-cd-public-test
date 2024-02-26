@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Test"
-  spec.version      = "1.5.5"
+  spec.version = "1.0.4" "1.5.5"
   spec.summary      = "S"
 
   spec.homepage     = "http://asdfasdf.cloud"
