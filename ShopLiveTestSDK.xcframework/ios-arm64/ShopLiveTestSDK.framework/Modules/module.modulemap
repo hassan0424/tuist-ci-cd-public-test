@@ -1,0 +1,4 @@
+framework module ShopLiveTestSDK {
+  header "ShopLiveTestSDK-Swift.h"
+  requires objc
+}

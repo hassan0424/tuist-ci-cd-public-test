@@ -1,0 +1,89 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ShopLiveTestSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestSDK",
+        "printedName": "TestSDK",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TestSDK",
+                "printedName": "ShopLiveTestSDK.TestSDK",
+                "usr": "s:15ShopLiveTestSDK0cD0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15ShopLiveTestSDK0cD0CACycfc",
+            "mangledName": "$s15ShopLiveTestSDK0cD0CACycfc",
+            "moduleName": "ShopLiveTestSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "sayHello",
+            "printedName": "sayHello()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15ShopLiveTestSDK0cD0C8sayHelloSSyF",
+            "mangledName": "$s15ShopLiveTestSDK0cD0C8sayHelloSSyF",
+            "moduleName": "ShopLiveTestSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15ShopLiveTestSDK0cD0C",
+        "mangledName": "$s15ShopLiveTestSDK0cD0C",
+        "moduleName": "ShopLiveTestSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
+      "kind": "StringLiteral",
+      "offset": 84,
+      "length": 12,
+      "value": "\"asasdfjfsd\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
+      "kind": "StringLiteral",
+      "offset": 163,
+      "length": 15,
+      "value": "\"hello world!!\""
+    }
+  ]
+}
