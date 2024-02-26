@@ -89,20 +89,20 @@
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
       "offset": 144,
-      "length": 10,
-      "value": "\"asdfasdf\""
+      "length": 16,
+      "value": "\"asdfasdasdfsff\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 170,
+      "offset": 176,
       "length": 37,
       "value": "\"asdfjkasdasdfsadfdsaaffdffggdf;jklf\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 319,
+      "offset": 325,
       "length": 15,
       "value": "\"hello world!!\""
     }
