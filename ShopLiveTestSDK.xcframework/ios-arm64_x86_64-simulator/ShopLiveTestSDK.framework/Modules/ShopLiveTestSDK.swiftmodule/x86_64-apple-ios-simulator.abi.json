@@ -75,34 +75,34 @@
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
       "offset": 84,
-      "length": 16,
-      "value": "\"asasdfjasdffsd\""
+      "length": 24,
+      "value": "\"asaasdfasdfsdfjasdffsd\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 116,
+      "offset": 124,
       "length": 27,
       "value": "\"adsjadsasdfasdasdffljkflk\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 159,
+      "offset": 167,
       "length": 51,
       "value": "\"asdfasdasasdfasdfkjsdg;jkdfgl;jkgdkl;jdg;jlkdfsff\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 226,
+      "offset": 234,
       "length": 45,
       "value": "\"asdfjkasdasdfsadfasdfsadfdsaaffdffggdf;jklf\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 383,
+      "offset": 391,
       "length": 15,
       "value": "\"hello world!!\""
     }
