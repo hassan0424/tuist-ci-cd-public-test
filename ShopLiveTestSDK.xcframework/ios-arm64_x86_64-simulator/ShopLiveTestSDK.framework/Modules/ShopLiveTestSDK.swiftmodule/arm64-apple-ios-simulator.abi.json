@@ -96,13 +96,13 @@
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
       "offset": 170,
-      "length": 31,
-      "value": "\"asdfjkasdasdfsadfdsaafff;jklf\""
+      "length": 33,
+      "value": "\"asdfjkasdasdfsadfdsaaffdff;jklf\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 313,
+      "offset": 315,
       "length": 15,
       "value": "\"hello world!!\""
     }
