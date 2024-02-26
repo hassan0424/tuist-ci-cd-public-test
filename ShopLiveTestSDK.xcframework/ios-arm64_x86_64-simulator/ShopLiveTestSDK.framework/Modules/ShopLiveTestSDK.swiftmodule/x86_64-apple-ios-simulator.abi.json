@@ -88,7 +88,14 @@
     {
       "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 240,
+      "offset": 144,
+      "length": 10,
+      "value": "\"asdfasdf\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/Modules\/ShopLive\/Sources\/Test.swift",
+      "kind": "StringLiteral",
+      "offset": 266,
       "length": 15,
       "value": "\"hello world!!\""
     }
